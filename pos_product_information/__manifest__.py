@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
 	'name' : 'Product Information in POS',
-	'author': "Juan Carlos Rojas",
+	'author': "Witlink",
 	'version' : '13.0.1.0',
 	'summary' : 'Product Information in POS',
 	'description' : 'Product Information in POS',
