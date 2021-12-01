@@ -7,7 +7,11 @@
 	'description' : 'Product Information in POS',
 	'depends' : ['point_of_sale'],
 	'data' : [],
-	'qweb' : ['static/src/xml/pos_product_info.xml'],
+	'assets': {
+        'web.assets_qweb': [
+            'pos_product_information/static/src/xml/**/*'
+        ]
+    },
 	'demo' : [],
     'application': True,
     'sequence': 1,
